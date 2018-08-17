@@ -16,7 +16,7 @@
 <a href=https://www.safaribooksonline.com/library/view/core-java-volume/9780135167199/chapter4.xhtml#chapter4>Book Chapter 4
 Objects and Classes</a>
 
-<a href=https://www.safaribooksonline.com/library/view/core-java-volume/9780135167199/chapter5.xhtml#sec5_3>Chapter 5
+<a href=https://www.safaribooksonline.com/library/view/core-java-volume/9780135167199/chapter5.xhtml#sec5_3>Book Chapter 5
 Inheritance</a>
 
 <a href=https://www.tutorialspoint.com/java/java_generics.htm>Java - Generics</a>
