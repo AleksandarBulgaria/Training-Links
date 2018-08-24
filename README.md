@@ -21,6 +21,8 @@ Inheritance</a>
 
 <a href=https://www.tutorialspoint.com/java/java_generics.htm>Java - Generics</a>
 
-<a href=></a>
+<a href=https://stackify.com/oop-concept-polymorphism/?utm_referrer=https://www.google.bg/>What is Polymorphism</a>
+
+<a href=https://www.quora.com/Why-cant-static-method-access-this-or-super-in-Java>Why can't static method access 'this' or 'super' in Java?</a>
 
 <a href=></a>
